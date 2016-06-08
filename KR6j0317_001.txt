@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:11.746553
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:51
 #+TITLE: 聖救度佛母二十一種禮讚經
 #+PROPERTY: CBETA_ID T20n1108A
 #+PROPERTY: ID KR6j0317
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1108A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0317_T_000-0478b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0317_T_001-0478b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1108A¶
+No. 1108A¶
 
-御製救度佛母讚
-:PROPERTIES:
-:head: 御製救度佛母讚
-:END:
-¶
+* 御製救度佛母讚¶
 ¶
 
 #+BEGIN_VERSE
@@ -83,14 +79,13 @@ No.1108A¶
 　至心歸仰救度尊
 　能消罪業越惡趣¶
 　速得圓融成正果
-　諸佛灌頂證真如
+　諸佛灌頂證真如」
 #+END_VERSE
-」¶
 ¶
 ¶
 ¶
-
- 聖救度佛母二十一種禮讚經¶
+¶
+聖救度佛母二十一種禮讚經¶
 ¶
 翰林學士承旨中奉大夫¶
 安藏奉　詔譯¶
@@ -108,7 +103,7 @@ No.1108A¶
 　普遍圓滿無垢面¶
 　如千星宿俱時聚
 　殊勝威光超於彼¶
-　敬禮紫磨金色母
+　敬體紫磨金色母
 　妙蓮華手勝莊嚴¶
 　施精勤行柔善靜
 　忍辱禪定性無境
@@ -185,7 +180,7 @@ No.1108A¶
 　敬禮具三真實母
 　善靜威力皆具足¶
 　藥叉執魅尾怛辣
-　都哩最極除災禍¶
+　都哩最極除炎禍¶
 　若有智者勤精進
 　至心誦此二十一¶
 　救度尊處誠信禮
@@ -209,9 +204,9 @@ No.1108A¶
 　欲乞男女得男女
 　求財寶位獲富饒¶
 　善能圓滿隨意願
-　一切障礙不能侵
+　一切障礙不能侵」
 #+END_VERSE
-」¶
+¶
 
 根本十字真言¶
 
